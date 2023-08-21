@@ -1,1 +1,34 @@
 /*  your css code here. If applicable */
+
+.card{
+	width:600px;
+	height:500px;
+	background-color:red;
+	box-shadow: 2px 5px 15px black;
+}
+
+h1{
+	color:white;
+	padding-bottom:5px
+}
+.para1{
+	color:white;
+}
+.para2{
+	color:white;
+}
+img{
+	     padding:5px;
+	     margin-top:5Px;
+}
+.Buynow{
+	  color:white;
+	background-color:darkblue;
+	padding:15px;
+	font-size:15px;
+	margin-top:7px;
+	border-radius:15%;
+	border:none;
+	height:60px;
+	
+}
